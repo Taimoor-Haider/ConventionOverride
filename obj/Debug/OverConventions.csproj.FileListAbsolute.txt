@@ -1,0 +1,15 @@
+D:\Entity framwork\Code\After\OverConventions\OverConventions\bin\Debug\OverConventions.exe.config
+D:\Entity framwork\Code\After\OverConventions\OverConventions\bin\Debug\OverConventions.exe
+D:\Entity framwork\Code\After\OverConventions\OverConventions\bin\Debug\OverConventions.pdb
+D:\Entity framwork\Code\After\OverConventions\OverConventions\bin\Debug\EntityFramework.dll
+D:\Entity framwork\Code\After\OverConventions\OverConventions\bin\Debug\EntityFramework.SqlServer.dll
+D:\Entity framwork\Code\After\OverConventions\OverConventions\bin\Debug\EntityFramework.xml
+D:\Entity framwork\Code\After\OverConventions\OverConventions\bin\Debug\EntityFramework.SqlServer.xml
+D:\Entity framwork\Code\After\OverConventions\OverConventions\obj\Debug\OverConventions.csproj.AssemblyReference.cache
+D:\Entity framwork\Code\After\OverConventions\OverConventions\obj\Debug\OverConventions.csproj.CoreCompileInputs.cache
+D:\Entity framwork\Code\After\OverConventions\OverConventions\obj\Debug\OverConventions.csproj.CopyComplete
+D:\Entity framwork\Code\After\OverConventions\OverConventions\obj\Debug\OverConventions.exe
+D:\Entity framwork\Code\After\OverConventions\OverConventions\obj\Debug\OverConventions.pdb
+D:\Entity framwork\Code\After\OverConventions\OverConventions\obj\Debug\OverConventions.Migrations.InitialModel.resources
+D:\Entity framwork\Code\After\OverConventions\OverConventions\obj\Debug\OverConventions.csproj.GenerateResource.cache
+D:\Entity framwork\Code\After\OverConventions\OverConventions\obj\Debug\OverConventions.Migrations.AddedAnotationToCourse.resources
